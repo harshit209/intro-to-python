@@ -1,0 +1,11 @@
+question 5
+
+ s = input("s = ")
+s = Acadview
+>>> course = input("course = ")
+course = Python
+>>> fees = input("fees = ")
+fees = 5299
+>>> print("you enrolled at %s in %s and the fees is %s" % 
+(s,course,fees))
+you enrolled at Acadview in Python and the fees is 5299

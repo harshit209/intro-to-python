@@ -1,0 +1,10 @@
+question 3
+
+ x = input("Enter first value")
+Enter first value 9
+>>> y = input("Enter second value")
+Enter second value 31
+>>> z = input("Enter third value")
+Enter third value 14
+>>> print(x,y,z)
+ 9  31  14
